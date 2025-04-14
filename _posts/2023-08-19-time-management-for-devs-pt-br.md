@@ -5,7 +5,7 @@ seo_title: Técnicas de Gestão de Tempo e Produtividade para Desenvolvedores
 seo_description: 'Descubra técnicas de gerenciamento de tempo específicas para desenvolvedores de software. Aprenda sobre Planejamento Semanal, Pomodoro e Matriz de Eisenhower. Melhore sua produtividade e qualidade de trabalho em projetos de tecnologia com métodos práticos.'
 exerpt: 'Visão detalhada sobre gerenciamento de tempo no desenvolvimento de software. Aborda dimensões mental, fisiológica e técnica na produtividade. Apresenta técnicas como Planejamento Semanal, Pomodoro e Matriz de Eisenhower. Fornece métodos práticos para desenvolvedores aprimorarem a gestão do tempo e a qualidade do trabalho.'
 cover_image: 'https://i.imgur.com/oCZcIby.webp'
-canonical_url: 'https://ryan.dev.br/2023-08-19-time-management-for-devs-pt-br'
+canonical_url: 'https://ryrden.github.io/old-website/2023-08-19-time-management-for-devs-pt-br'
 image_alt: 'Mulher com notebook em cima de um calendário gigante, ao fundo um cronoômetro e ao lado do calendário há uma planta'
 tags:
   - carreira
@@ -187,4 +187,4 @@ Tem muitas outras técnicas que deixei de comentar aqui que podem auxiliar como 
 
 ---
 
-Espero que tenha gostado do artigo e que ele possa te ajudar a gerenciar o seu tempo de forma eficiente. Se tiver alguma dúvida ou sugestão, deixe um comentário abaixo ou entre em contato comigo pelo [LinkedIn](https://www.linkedin.com/in/ryan25/) ou pela aba de [contato](https://ryan.dev.br/contact/) do meu site.
+Espero que tenha gostado do artigo e que ele possa te ajudar a gerenciar o seu tempo de forma eficiente. Se tiver alguma dúvida ou sugestão, deixe um comentário abaixo ou entre em contato comigo pelo [LinkedIn](https://www.linkedin.com/in/ryan25/) ou pela aba de [contato](https://ryrden.github.io/old-website/contact/) do meu site.

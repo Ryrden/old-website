@@ -5,7 +5,7 @@ seo_title: How to Generate and Add an SSH Key to GitHub - Secure Authentication 
 seo_description: 'Learn how to generate and add an SSH key to GitHub for secure authentication. Follow our step-by-step guide with detailed instructions for Linux and Windows users. Configure your SSH key on GitHub to enable push and pull operations effortlessly, without repeated authentication. Optimize your GitHub experience now!'
 excerpt: Step-by-step guide on generating and adding an SSH key to GitHub for secure authentication. Learn how to create SSH keys using the ED25519 algorithm with detailed instructions for Linux and Windows. Configure your SSH key on GitHub to enable push and pull operations without repeated authentication.
 cover_image: 'https://i.imgur.com/9GC9TvD.webp'
-canonical_url: 'https://ryan.dev.br/en/2023-04-17-github-ssh-en'
+canonical_url: 'https://ryrden.github.io/old-website/en/2023-04-17-github-ssh-en'
 image_alt: 'A statue of an oktokat (github mascot) in the center, in the background a laptop with the main page of GitHub open.'
 tags:
   - github
@@ -131,4 +131,4 @@ if everything goes well, you will see a success message, and you can clone any r
 
 - [Github Documentation](https://docs.github.com/en/authentication/connecting-to-github-with-ssh)
 
-I hope this tutorial has helped you set up your SSH key on github. If you have any questions or suggestions, leave a comment below or contact me through [LinkedIn](https://www.linkedin.com/in/ryan25/) or the [contact](https://ryan.dev.br/contact/) tab on my website.
+I hope this tutorial has helped you set up your SSH key on github. If you have any questions or suggestions, leave a comment below or contact me through [LinkedIn](https://www.linkedin.com/in/ryan25/) or the [contact](https://ryrden.github.io/old-website/contact/) tab on my website.

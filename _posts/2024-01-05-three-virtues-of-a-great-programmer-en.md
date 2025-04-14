@@ -5,7 +5,7 @@ seo_title: 'Master Programming with Three Essential Virtues - Laziness, Impatien
 seo_description: 'Discover how laziness, impatience, and arrogance can lead to excellence in programming. Learn how these traits are crucial for innovation, efficiency, and confidence in software development. Transform your approach to programming with these key virtues.'
 exerpt: 'Discover how the unusual virtues - Laziness, Impatience, and Arrogance - are key to excellence in programming. This article explores how these traits, far from being flaws, are fundamental to innovation, efficiency, and confidence in software development.'
 cover_image: 'https://i.imgur.com/n53IPTD.webp'
-canonical_url: 'https://ryan.dev.br/en/2024-01-05-three-virtues-of-a-great-programmer-en'
+canonical_url: 'https://ryrden.github.io/old-website/en/2024-01-05-three-virtues-of-a-great-programmer-en'
 image_alt: 'Three programmers representing the three virtues, laziness, impatience and arrogance.'
 tags:
   - career
@@ -92,4 +92,4 @@ An important thing to highlight is that these virtues are all developed over tim
 
 ---
 
-I hope you enjoyed the article and that it made you reflect at least a little. If you have any questions or suggestions, leave a comment below or contact me through [LinkedIn](https://www.linkedin.com/in/ryan25/) or the [contact](https://ryan.dev.br/contact/) tab on my site.
+I hope you enjoyed the article and that it made you reflect at least a little. If you have any questions or suggestions, leave a comment below or contact me through [LinkedIn](https://www.linkedin.com/in/ryan25/) or the [contact](https://ryrden.github.io/old-website/contact/) tab on my site.

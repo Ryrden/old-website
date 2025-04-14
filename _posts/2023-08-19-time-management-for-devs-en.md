@@ -5,7 +5,7 @@ seo_title: Time Management and Productivity Tips for Developers - Improve Your E
 seo_description: 'Explore time management techniques tailored for software developers. Learn about Weekly Planning, Pomodoro, and the Eisenhower Matrix. Enhance your productivity and the quality of your work on technology projects with practical methods.'
 excerpt: 'In-depth look at time management in software development. Addresses mental, physiological, and technical productivity dimensions. Presents techniques like Weekly Planning, Pomodoro, and Eisenhower Matrix. Provides practical methods for developers to improve time management and work quality.'
 cover_image: 'https://i.imgur.com/oCZcIby.webp'
-canonical_url: 'https://ryan.dev.br/en/2023-08-19-time-management-for-devs-en'
+canonical_url: 'https://ryrden.github.io/old-website/en/2023-08-19-time-management-for-devs-en'
 image_alt: 'Woman with notebook on top of a giant calendar, in the background a stopwatch and next to the calendar there is a plant'
 tags:
   - career
@@ -187,4 +187,4 @@ There are many other techniques that I did not mention here that can help such a
 
 ---
 
-I hope you enjoyed the article and that it can help you manage your time efficiently. If you have any questions or suggestions, leave a comment below or contact me through [LinkedIn](https://www.linkedin.com/in/ryan25/) or the [contact](https://ryan.dev.br/contact/) tab on my website.
+I hope you enjoyed the article and that it can help you manage your time efficiently. If you have any questions or suggestions, leave a comment below or contact me through [LinkedIn](https://www.linkedin.com/in/ryan25/) or the [contact](https://ryrden.github.io/old-website/contact/) tab on my website.

@@ -2,7 +2,7 @@ defaults:
   - values:
       layout: "default"
 
-url: "https://ryan.dev.br"
+url: "https://ryrden.github.io/old-website"
 baseurl: ""
 
 timezone: America/Sao_Paulo
